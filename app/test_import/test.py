@@ -1,1 +1,0 @@
-from app.config import Config  # падает с ModuleNotFoundError: No module named 'constants'
